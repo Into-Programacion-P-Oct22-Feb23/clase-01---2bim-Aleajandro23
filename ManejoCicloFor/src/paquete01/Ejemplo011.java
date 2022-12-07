@@ -24,3 +24,4 @@ public class Ejemplo011 {
     }
     
 }
+// int i = 10; i >= 0 esto primero

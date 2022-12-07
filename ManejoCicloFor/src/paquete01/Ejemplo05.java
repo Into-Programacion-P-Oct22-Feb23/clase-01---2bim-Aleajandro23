@@ -43,3 +43,4 @@ public class Ejemplo05 {
     }
 
 }
+// un numero elevarlo en la pontencia sin usar math.pow 

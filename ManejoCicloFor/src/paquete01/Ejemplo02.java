@@ -23,3 +23,4 @@ public class Ejemplo02 {
     }
     
 }
+// 2 en 2

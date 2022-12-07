@@ -27,3 +27,6 @@ public class Ejemplo01 {
     }
 
 }
+// si se inicializa antes ya no es necesario poner el int en el for
+// manejo de arreglos unimensionales
+// manejo de arreglos bimensionales
